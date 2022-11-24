@@ -1,0 +1,11 @@
+Abandon,cease to support or look after someone
+Abolish,formally put an end to 
+Abscond,leave hurriedly and secretly typically 
+Accelerate,begin to move more quickly
+Accretion,the process of growth or increase
+Angry,tostayhyper
+notangry,nothyper
+notAngry,notstayhyper
+happy,tostaycherish
+enter,toenter
+notenter,not
